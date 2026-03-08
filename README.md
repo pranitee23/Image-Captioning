@@ -75,6 +75,20 @@ The repository includes **pre-trained encoder and decoder model files** so you d
 
 ---
 
+## 🌍 Real-World Applications
+
+Image captioning might sound like a research concept, but it has genuinely practical uses across many fields:
+
+- ♿ **Accessibility** - Automatically generating alt-text for images helps visually impaired users understand visual content on websites and apps
+- 🛒 **E-commerce** - Auto-captioning product images saves time for sellers and improves searchability for buyers
+- 🏥 **Medical Imaging** - Describing radiology scans or pathology slides in natural language can assist doctors in documentation and reporting
+- 📰 **News and Media** - Automatically tagging and captioning large volumes of images speeds up editorial workflows
+- 🔍 **Image Search** - Caption generation powers smarter image search engines that go beyond keywords
+- 🤖 **Robotics and AI Assistants** - Helps robots and AI systems describe their visual environment in natural language for better human-machine interaction
+- 🎓 **Education** - Generating descriptions for educational images and diagrams makes learning material more accessible
+
+---
+
 ## 🙋‍♀️ About the Author
 
 Built with 💙 by **[Pranitee Majukar](https://github.com/pranitee23)**
